@@ -1,4 +1,36 @@
 # Hacker_Hiring_Discords
-List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
+List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. 
 
-- [Circle City Con X](https://discord.gg/PQCabtG6RN). Career Hacking
+- [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) - #jobs
+- [Black Hills Infosec](https://discord.gg/bhis) - Infosec Career Dev
+- [CactusCon Community](https://discord.gg/znvNrP5xPB) - #jobs-hiring-and-lfw
+- [Certification Station](https://discord.gg/certstation) - Career
+- [Circle City Con X](https://discord.gg/PQCabtG6RN) - Career Hacking 
+- [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - #career-advice
+- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886)
+- [Cyberspatial](https://discord.gg/GaP8VmWchh) - #career-advice
+- [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Career Center
+- [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Career Resources
+- [Gynvael's Tech Chat](https://discord.gg/BuFBZx4W57) - #looking-for-work
+- [Hacker101](https://discord.gg/ZWBF2v42pa) - #career-corner
+- [HackTheBox](https://discord.gg/hackthebox) - #job-postings
+- [Infosec 716](https://discord.gg/PZyNPZ8yuF) - #jobs 
+- [InfoSec Community](https://discord.gg/rXpRtcUVhY) - #job-opportunities
+- [InfoSec Prep](https://discord.gg/infosecprep) - #job-postings
+- [KASE](https://discord.gg/vg6gdrKqMw) - Career & Education
+- [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - #jobs-certifications
+- [netsecstudents](https://discord.gg/v8WcpurhVT) - #jobs
+- [Offensive Security](https://discord.gg/offsec) - Career & Growth
+- [Porchetta Industries](https://discord.gg/fCchJT6McG) - #job-postings
+- [RedSec by Bishop Fox](https://discord.gg/redsec) - #jobopps
+- [Red Team Village](https://discord.gg/redteamvillage) - #Career & Professional Networking
+- [Republic of Hackers](https://discord.gg/AVAXXWFzYF) - Career-Hacking
+- [Reverse Engineering](https://discord.gg/rtfm) - #recruiting
+- [SaintCon](https://discord.gg/saintcon) - #job-opportunities
+- [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Lateral Movement
+- [ShellSharks](https://discord.gg/gGNrabK9rY) - #career-mentoring
+- [Summit City Infosec](https://discord.gg/e664A69G4a) - #jobs-and-resumes
+- [TCM Security](https://discord.gg/tcm) - Resources
+- [Threat Hunter Community](https://discord.gg/threathunter) - Career Development
+- [Trace Labs](https://discord.gg/tracelabs) - Careers
+- [TrustedSec](https://discord.gg/trustedsec) - #careers-mentors
