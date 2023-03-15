@@ -1,5 +1,5 @@
 # Hacker Hiring Discords
-List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. Please open a PR to submit a server. 
+List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. Please open a PR to submit a server - [SERVERNAME](URL) - #channel, category, server
 
 - [1BitSquared](https://1bitsquared.com/pages/chat) - #jobs
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) - #jobs
@@ -9,7 +9,7 @@ List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
 - [ChipWhisperer](https://discord.gg/WKbT3cX9Yq) - #jobs
 - [Circle City Con X](https://discord.gg/PQCabtG6RN) - Career Hacking 
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - #career-advice
-- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886)
+- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) - Server
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - #career-advice
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Career Center
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Career Resources
