@@ -30,6 +30,7 @@ List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
 - [Reverse Engineering](https://discord.gg/rtfm) - #recruiting
 - [SaintCon](https://discord.gg/saintcon) - #job-opportunities
 - [SANS Offensive Operations](https://discord.gg/RWggDDaNtj) - Lateral Movement
+- [seccareers.dev](https://discord.gg/cybersecurity) - #job_postings College Student & New Grad/Entry Roles
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - #career-mentoring
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - #jobs-and-resumes
 - [TCM Security](https://discord.gg/tcm) - Resources
