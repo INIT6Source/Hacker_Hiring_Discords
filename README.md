@@ -23,6 +23,7 @@ List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - #jobs-certifications
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - #jobs
 - [Offensive Security](https://discord.gg/offsec) - Career & Growth
+- [OwlSec](https://discord.gg/owlsec) -#jobs
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - #job-postings
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - #jobopps
 - [Red Team Village](https://discord.gg/redteamvillage) - #Career & Professional Networking
