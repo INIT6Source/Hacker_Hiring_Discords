@@ -13,7 +13,7 @@ List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - #career-advice
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Career Center
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Career Resources
-- [Gynvael's Tech Chat](https://discord.gg/BuFBZx4W57) - #looking-for-work
+- [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - #looking-for-work
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - #career-corner
 - [HackTheBox](https://discord.gg/hackthebox) - #job-postings
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - #jobs 
