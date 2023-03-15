@@ -1,5 +1,5 @@
-# Hacker_Hiring_Discords
-List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. 
+# Hacker Hiring Discords
+List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. Please open a PR to submit your server. 
 
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) - #jobs
 - [Black Hills Infosec](https://discord.gg/bhis) - Infosec Career Dev
