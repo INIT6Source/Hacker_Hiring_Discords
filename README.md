@@ -1,10 +1,12 @@
 # Hacker Hiring Discords
 List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels. Please open a PR to submit your server. 
 
+- [1BitSquared](https://1bitsquared.com/pages/chat) - #jobs
 - [Awesome Fuzzing](https://discord.gg/cvTjr47YSU) - #jobs
 - [Black Hills Infosec](https://discord.gg/bhis) - Infosec Career Dev
 - [CactusCon Community](https://discord.gg/znvNrP5xPB) - #jobs-hiring-and-lfw
 - [Certification Station](https://discord.gg/certstation) - Career
+- [ChipWhisperer](https://discord.gg/WKbT3cX9Yq) - #jobs
 - [Circle City Con X](https://discord.gg/PQCabtG6RN) - Career Hacking 
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - #career-advice
 - [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886)
