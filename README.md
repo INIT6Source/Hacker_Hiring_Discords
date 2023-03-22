@@ -24,6 +24,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [InfoSec Prep](https://discord.gg/infosecprep) - #job-postings
 - [KASE](https://discord.gg/vg6gdrKqMw) - Career & Education
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - #jobs-certifications
+- [The Lowdown Lab](https://discord.gg/thelowdownlab) - #hiring-or-looking-for-work
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - #jobs
 - [Offensive Security](https://discord.gg/offsec) - Career & Growth
 - [OwlSec](https://discord.gg/owlsec) -#jobs
