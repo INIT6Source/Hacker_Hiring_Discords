@@ -12,7 +12,8 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [ChipWhisperer](https://discord.gg/WKbT3cX9Yq) - #jobs
 - [Circle City Con X](https://discord.gg/PQCabtG6RN) - Career Hacking 
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - #career-advice
-- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) - Server
+- [Cyber Mentor Dojo](https://discord.gg/KFMZ68wG) - Jobs and Employment
+- [Cyber Jobs Hunting](https://discord.gg/cyber-jobs-hunting-777881374555897886) - General Hiring Server
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - #career-advice
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Career Center
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Career Resources
