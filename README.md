@@ -47,4 +47,4 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [Trace Labs](https://discord.gg/tracelabs) - Careers
 - [TrustedSec](https://discord.gg/trustedsec) - #careers-mentors
 
-If for any reason you would like to request a Discord server be removed please open a PR. This list is meant for non-malicious purposes exclusivel
+If for any reason you would like to request a Discord server be removed please open a PR. This list is meant for non-malicious purposes exclusively.
