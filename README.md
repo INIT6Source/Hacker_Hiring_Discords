@@ -4,6 +4,7 @@ List of Hacker/Infosec/CyberSec Discord servers with Hiring/Jobs/Career channels
 
 For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 
+- [19th State Hackers](https://discord.gg/VUTauKkrep) - #resumes-linkedin
 - [1BitSquared](https://1bitsquared.com/pages/chat) - #jobs
 - [Athena OS](https://discord.gg/2tM4X4RmA5) - #job-board
 - [Antisyphon Traning](https://discord.gg/antisyphon) - #job-board
