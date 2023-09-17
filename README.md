@@ -20,6 +20,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [Cyberspatial](https://discord.gg/GaP8VmWchh) - #career-advice
 - [Cyberwox Academy](https://discord.gg/jUqmShxGuz) - Career Center
 - [Darknet Diaries Community](https://discord.gg/darknetdiaries) - Career Resources
+- [DCG239](https://discord.gg/aDTRemnchA) - #job-postings
 - [F0xhunt](https://discord.gg/f0xhunt) - Career & Professional
 - [Gynvael's Tech Chat](https://gynvael.coldwind.pl/discord) - #looking-for-work
 - [Hacker101](https://discord.gg/ZWBF2v42pa) - #career-corner
@@ -51,6 +52,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [seccareers.dev](https://discord.gg/cybersecurity) - #job_postings, College Student & New Grad/Entry Roles
 - [SecDSM](http://discord.gg/secdsm) - #jobs
 - [ShellSharks](https://discord.gg/gGNrabK9rY) - #career-mentoring
+- [Simply Cyber](https://discord.gg/simplycyber) - #open-job-postings
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - #jobs-and-resumes
 - [The Alh4z-R3d Team](https://discord.gg/PQdwBMb6dn) - #interview-prep
 - [The Hive](https://discord.gg/29VBQgQHMd) - Career & Professional
