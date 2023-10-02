@@ -34,7 +34,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [KASE](https://discord.gg/vg6gdrKqMw) - Career & Education
 - [Laptop Hacking Coffee](https://discord.com/invite/F2HKJmQ) - #jobs-certifications
 - [The Lowdown Lab](https://discord.gg/thelowdownlab) - #hiring-or-looking-for-work
-- [Martian Defense Cyber Team](https://discord.com/servers/martian-defense-cyber-team-cybersecurity-966495228385198150) - #job-zone
+- [Martian Defense Cyber Team](https://join.martiandefense.llc) - #job-zone
 - [netsecstudents](https://discord.gg/v8WcpurhVT) - #jobs
 - [n00b_sec](https://discord.gg/Yr6GX7dB3A) - #job-posts
 - [Open Analysis Live](https://discord.gg/tqKcMTYu) - #jobs
