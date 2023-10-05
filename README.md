@@ -42,6 +42,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [OnlyFeet](https://discord.gg/onlyfeet) - #only-jobs
 - [OwlSec](https://discord.gg/owlsec) -#jobs
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - #job-postings
+- [public club](https://discord.gg/3b4qtuJUKe) - #job-listings
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - #jobopps
 - [Red Team Village](https://discord.gg/redteamvillage) - #Career & Professional Networking
 - [Red Team VX Community](https://discord.gg/red-team-vx-community-1012733841229746240) - #red-team-jobs
