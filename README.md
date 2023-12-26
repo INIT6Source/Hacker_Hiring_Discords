@@ -27,6 +27,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [HackTheBox](https://discord.gg/hackthebox) - #job-postings
 - [Hackers N' Hops](https://discord.gg/cuX2A2CjXc) - #job-leads
 - [Hackers Teaching Hackers](https://discord.gg/Qck5NUgw9z) - #job-opportunities
+- [HACKERverse](https://discord.gg/hacer-rs-952244889192648775) - Work and Training
 - [Infosec 716](https://discord.gg/PZyNPZ8yuF) - #jobs 
 - [InfoSec Community](https://discord.gg/rXpRtcUVhY) - #job-opportunities
 - [InfoSec Community Server](https://discord.gg/b8faj9Q3Xd) - I#job-board
@@ -56,6 +57,7 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [Summit City Infosec](https://discord.gg/e664A69G4a) - #jobs-and-resumes
 - [The Alh4z-R3d Team](https://discord.gg/PQdwBMb6dn) - #interview-prep
 - [The Hive](https://discord.gg/29VBQgQHMd) - Career & Professional
+- [The InfoSec Collective](https://discord.gg/kPhVS9DXjw) - Resources
 - [The Taggart Institute](https://discord.gg/taggartinstitute) - #career
 - [TCM Security](https://discord.gg/tcm) - Resources
 - [Threat Hunter Community](https://discord.gg/threathunter) - Career Development
