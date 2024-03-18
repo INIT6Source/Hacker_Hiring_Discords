@@ -39,7 +39,6 @@ For full list of Discords - https://github.com/INIT6Source/Hacker_Discords
 - [n00b_sec](https://discord.gg/Yr6GX7dB3A) - #job-posts
 - [Open Analysis Live](https://discord.gg/tqKcMTYu) - #jobs
 - [Offensive Security](https://discord.gg/offsec) - Career & Growth
-- [OnlyFeet](https://discord.gg/onlyfeet) - #only-jobs
 - [Porchetta Industries](https://discord.gg/fCchJT6McG) - #job-postings
 - [public club](https://discord.gg/3b4qtuJUKe) - #job-listings
 - [RedSec by Bishop Fox](https://discord.gg/redsec) - #jobopps
